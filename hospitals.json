@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "KIMS",
+    "patientCount": 120,
+    "location": "TVM"
+  },
+  {
+    "id": 2,
+    "name": "VIJAYAS",
+    "patientCount": 95,
+    "location": "KOLLAM"
+  },
+  {
+    "id": 3,
+    "name": "SUT",
+    "patientCount": 200,
+    "location": "TVM"
+  },
+  {
+    "id": 4,
+    "name": "AIIMS",
+    "patientCount": 70,
+    "location": "EKM"
+  },
+  {
+    "id": 5,
+    "name": "PHC",
+    "patientCount": 70,
+    "location": "CLT"
+  }
+]
